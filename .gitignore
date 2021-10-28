@@ -1,3 +1,6 @@
 data/test/
 data/train/
 /data/
+/resnet_test.py
+/dog.jpg
+/catdog_model_no_1.pth
